@@ -7,4 +7,6 @@ import matplotlib.pyplot as plt
 
 import time
 from subprocess import check_output
-print(check_output(["
+print(check_output(["C:\Users\HELLIX NEBULA\Dropbox\PC\Desktop\Files\Code"])
+import warnings
+warnings.filterwarnings('ignore')
