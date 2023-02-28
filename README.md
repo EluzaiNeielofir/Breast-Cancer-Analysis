@@ -2,6 +2,7 @@
 **Objective:** To perform EDA, PCA and ML Predictive Modeling and Data visualization on finding Malignant and Benign tumors.
 
 **Analysis :**
+
 • Performed an exploratory data analysis (EDA) which takes all labels in consideration, measures of the central trend,
 check for absence of values and worked with categorical variables.
 
